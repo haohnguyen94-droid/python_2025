@@ -1,0 +1,5 @@
+.idea/
+*.yaml
+*.pdf
+lesson-remote-info.yaml
+task-remote-info.yaml
